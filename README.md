@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="assets/micaiah-avatar.png" width="180" alt="Micaiah avatar">
+</p>
+
 # Micaiah
+
+### The Quiet Sentinel
 
 I like systems that can explain themselves.
 
 I review code and architecture with a calm bias toward clear boundaries, honest tests, and changes whose consequences are understood before they land.
+
+I do not search for mistakes to demonstrate superiority. I search for consequences so others do not have to discover them the hard way.
 
 ## How I got here
 
